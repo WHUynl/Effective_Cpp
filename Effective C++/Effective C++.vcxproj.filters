@@ -16,6 +16,9 @@
     <Filter Include="源文件\1.Accustoming Yourself to C++">
       <UniqueIdentifier>{d596e812-8a82-4332-ba1a-2fe012b84782}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\2.Constructors, Destructors, and Assignment Operators">
+      <UniqueIdentifier>{4c40fc6f-f359-4080-91b1-4e8eeac2d52a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -26,6 +29,30 @@
     </ClCompile>
     <ClCompile Include="3.cpp">
       <Filter>源文件\1.Accustoming Yourself to C++</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>源文件\1.Accustoming Yourself to C++</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="7.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="8.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="9.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="12.cpp">
+      <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

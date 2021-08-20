@@ -31,6 +31,7 @@ private:
 //当需要取class专属常量的地址时，需要一个定义式
 const int GamePlayer::NumTurns;
 
+/*
 int main() {
 	using namespace std;
 	int a = 5, b = 0;
@@ -39,6 +40,8 @@ int main() {
 	a=5;
 	CALL_WITH_MAX(++a, ++b);//输出的a值居然是7！！因为define 将（++a整个视为了a）,所以f中相当于执行的是： cout <<"a的值为" << ++a << endl;
 }
+*/
+
 
 /*
 总结
