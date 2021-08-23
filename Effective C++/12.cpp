@@ -47,12 +47,14 @@ PriorCustomer& PriorCustomer::operator=(const PriorCustomer& rhs) {
 	return *this;
 }
 
+/*
 int main() {
 	PriorCustomer p1(1,"p1");
 	PriorCustomer p2(2,"p2");
 	p1 = p2;
 	PriorCustomer p3(p1);
 }
+*/
 
 /*
 ×Ü½á

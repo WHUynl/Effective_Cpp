@@ -19,6 +19,12 @@
     <Filter Include="源文件\2.Constructors, Destructors, and Assignment Operators">
       <UniqueIdentifier>{4c40fc6f-f359-4080-91b1-4e8eeac2d52a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\3.Resource Management">
+      <UniqueIdentifier>{bd828feb-5c55-4447-b7f6-f790885e734c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.设计与声明">
+      <UniqueIdentifier>{78bc3ce0-dc31-4ddc-a06e-cd84bbf87171}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -53,6 +59,36 @@
     </ClCompile>
     <ClCompile Include="12.cpp">
       <Filter>源文件\2.Constructors, Destructors, and Assignment Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="13.cpp">
+      <Filter>源文件\3.Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="14.cpp">
+      <Filter>源文件\3.Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="15.cpp">
+      <Filter>源文件\3.Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="16.cpp">
+      <Filter>源文件\3.Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="17.cpp">
+      <Filter>源文件\3.Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="18.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="19.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="20.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="21.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="22.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
