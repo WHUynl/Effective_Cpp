@@ -10,7 +10,7 @@ private:
 	friend const Rational operator* (const Rational& lhs, const Rational& rhs);//正确的版本
 };
 
-Rational::Rational(int num = 0, int den = 1):n(num),d(den)
+Rational::Rational(int num, int den):n(num),d(den)
 {
 }
 
