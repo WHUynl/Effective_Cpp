@@ -90,5 +90,14 @@
     <ClCompile Include="22.cpp">
       <Filter>源文件\4.设计与声明</Filter>
     </ClCompile>
+    <ClCompile Include="23.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="24.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="25.cpp">
+      <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

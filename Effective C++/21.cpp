@@ -15,7 +15,7 @@ Rational::Rational(int num, int den):n(num),d(den)
 }
 
 //ÕýÈ·°æ±¾
-const Rational operator*(const Rational& lhs, const Rational& rhs) {
+static const Rational operator*(const Rational& lhs, const Rational& rhs) {
 	Rational result(lhs.n * rhs.n, lhs.d * rhs.d);
 	return result;
 }
