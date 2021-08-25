@@ -53,7 +53,7 @@ void doSomething(T& obj1, T& obj2) {
 
 
 
-
+/*
 int main() {
 	using namespace std;
 	using namespace testSwap;
@@ -68,7 +68,7 @@ int main() {
 	cout << c.num << endl;
 
 }
-
+*/
 /*
 总结
 1.当std::swap对你的类型效率不高时，提供一个swap成员函数，并确定这个函数不抛出异常。
