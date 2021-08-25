@@ -25,6 +25,9 @@
     <Filter Include="源文件\4.设计与声明">
       <UniqueIdentifier>{78bc3ce0-dc31-4ddc-a06e-cd84bbf87171}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\5.实现">
+      <UniqueIdentifier>{e4cca083-f86c-4fb8-a435-c747a7817c77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="25.cpp">
       <Filter>源文件\4.设计与声明</Filter>
+    </ClCompile>
+    <ClCompile Include="26.cpp">
+      <Filter>源文件\5.实现</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
