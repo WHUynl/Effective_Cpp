@@ -17,12 +17,14 @@
 从此对RealPerson进行修改时，只需要重新编译该类所在文件即可，外界不会感知
 */
 
+/*
 
 int main() {
 	string name = "ynl";
 	shared_ptr<Person> pp = Person::createPerson(name);
 	cout << pp->name() << endl;
 }
+*/
 
 /*
 总结

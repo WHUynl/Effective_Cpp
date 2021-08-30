@@ -28,6 +28,9 @@
     <Filter Include="源文件\5.实现">
       <UniqueIdentifier>{e4cca083-f86c-4fb8-a435-c747a7817c77}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\继承与面向对象设计">
+      <UniqueIdentifier>{d6f9f57f-d5ad-4c49-8d2a-6af1385f886f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -125,6 +128,18 @@
     </ClCompile>
     <ClCompile Include="31RealPerson.cpp">
       <Filter>源文件\5.实现</Filter>
+    </ClCompile>
+    <ClCompile Include="32.cpp">
+      <Filter>源文件\继承与面向对象设计</Filter>
+    </ClCompile>
+    <ClCompile Include="33.cpp">
+      <Filter>源文件\继承与面向对象设计</Filter>
+    </ClCompile>
+    <ClCompile Include="34.cpp">
+      <Filter>源文件\继承与面向对象设计</Filter>
+    </ClCompile>
+    <ClCompile Include="36.cpp">
+      <Filter>源文件\继承与面向对象设计</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
