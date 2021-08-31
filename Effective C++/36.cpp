@@ -23,6 +23,7 @@ public:
 那么“每个 D 都是一个 B" 就不为真。
 */
 
+/*
 int main() {
 	D d;
 	B* pb = &d;
@@ -31,6 +32,7 @@ int main() {
 	pb->mf();//调用Base的
 	pd->mf();//调用Derived的
 }
+*/
 
 /*
 总结：
