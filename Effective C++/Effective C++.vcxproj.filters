@@ -31,6 +31,9 @@
     <Filter Include="源文件\6.继承与面向对象设计">
       <UniqueIdentifier>{d6f9f57f-d5ad-4c49-8d2a-6af1385f886f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\7.模板与泛性编程">
+      <UniqueIdentifier>{0c289547-ed96-481b-90fa-6160a69257a7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -155,6 +158,12 @@
     </ClCompile>
     <ClCompile Include="35.cpp">
       <Filter>源文件\6.继承与面向对象设计</Filter>
+    </ClCompile>
+    <ClCompile Include="41.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="42.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

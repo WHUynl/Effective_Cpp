@@ -44,7 +44,7 @@ class FileSystem {
 public:
 	int fileSize() { return 5; }
 };
-FileSystem tfs() {
+FileSystem& tfs() {
 	static FileSystem fs;
 	return fs;
 }
