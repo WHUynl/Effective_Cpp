@@ -32,6 +32,8 @@ public:
 /*
 注意，缺省值由静态绑定决定，而执行的函数由动态绑定决定.
 */
+
+/*
 int main() {
 	Shape* ps;
 	Shape* pr = new Rectangle;
@@ -45,6 +47,7 @@ int main() {
 	Circle c;
 	c.draw(Shape::Green);//此时必须指明参数，因为这不是动态绑定
 }
+*/
 /*
 总结
 1.绝对不要重新定义一个继承而来的缺省参数值，因为缺省参数值都是静态绑定，

@@ -6,8 +6,8 @@ using namespace std;
 template<class T>	
 class Set {
 public:
-	bool member(const  T& item)  const; void insert(const T& item);
-	void remove(const T& item); std::size_t size() const;
+	bool member(const  T& item)  const; 
+	void remove(const T& item); 
 	void insert(const T& item);
 	std::size_t size() const;
 private:
@@ -20,14 +20,14 @@ bool  Set<T>::member(const  T& item)   const {
 }
 template<typename  T>
 void  Set<T>::insert(const  T& item) {
-	if (!member(i tern))   rep.push_back(i tern);
+	if (!member(item))   rep.push_back(item);
 }
 template <typename T>
 void Set<T>::remove(const T& item) {
 	typename list<T>::iterator it =
 		std::find(rep.begin(), rep.end(), item);
 	if (it != rep.end())  rep.erase(it);
-	£ý
+	
 }
 
 template<typename T>

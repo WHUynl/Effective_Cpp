@@ -165,6 +165,9 @@
     <ClCompile Include="42.cpp">
       <Filter>源文件\7.模板与泛性编程</Filter>
     </ClCompile>
+    <ClCompile Include="43.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h">
