@@ -168,12 +168,27 @@
     <ClCompile Include="43.cpp">
       <Filter>源文件\7.模板与泛性编程</Filter>
     </ClCompile>
+    <ClCompile Include="44.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="45.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="46.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="Rational46.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="31RealPerson.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rational46.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

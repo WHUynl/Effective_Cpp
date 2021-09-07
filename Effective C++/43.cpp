@@ -46,10 +46,12 @@ public:
 	virtual void wirteAB() { cout << "DerivedAB A and B" << endl; }
 };
 
+/*
 int main() {
 	shared_ptr<Base43<int>> b(new Derived43AB<int>);
 	b->useBaseWriteAB();
 }
+*/
 
 /*
 ×Ü½á

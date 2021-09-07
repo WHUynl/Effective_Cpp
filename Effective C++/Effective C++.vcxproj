@@ -177,16 +177,21 @@
     <ClCompile Include="41.cpp" />
     <ClCompile Include="42.cpp" />
     <ClCompile Include="43.cpp" />
+    <ClCompile Include="44.cpp" />
+    <ClCompile Include="45.cpp" />
+    <ClCompile Include="46.cpp" />
     <ClCompile Include="5.cpp" />
     <ClCompile Include="31.cpp" />
     <ClCompile Include="6.cpp" />
     <ClCompile Include="7.cpp" />
     <ClCompile Include="8.cpp" />
     <ClCompile Include="9.cpp" />
+    <ClCompile Include="Rational46.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h" />
     <ClInclude Include="31RealPerson.h" />
+    <ClInclude Include="Rational46.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
