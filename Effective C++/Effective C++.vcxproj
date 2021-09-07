@@ -180,6 +180,7 @@
     <ClCompile Include="44.cpp" />
     <ClCompile Include="45.cpp" />
     <ClCompile Include="46.cpp" />
+    <ClCompile Include="49.cpp" />
     <ClCompile Include="5.cpp" />
     <ClCompile Include="31.cpp" />
     <ClCompile Include="6.cpp" />
@@ -187,11 +188,13 @@
     <ClCompile Include="8.cpp" />
     <ClCompile Include="9.cpp" />
     <ClCompile Include="Rational46.cpp" />
+    <ClCompile Include="Widget49.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h" />
     <ClInclude Include="31RealPerson.h" />
     <ClInclude Include="Rational46.hpp" />
+    <ClInclude Include="Widget49.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

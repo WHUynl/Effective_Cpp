@@ -34,6 +34,9 @@
     <Filter Include="源文件\7.模板与泛性编程">
       <UniqueIdentifier>{0c289547-ed96-481b-90fa-6160a69257a7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\8.定制new和delete">
+      <UniqueIdentifier>{c8550da4-d5d9-446b-8987-e080c9549824}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -180,6 +183,12 @@
     <ClCompile Include="Rational46.cpp">
       <Filter>源文件\7.模板与泛性编程</Filter>
     </ClCompile>
+    <ClCompile Include="49.cpp">
+      <Filter>源文件\8.定制new和delete</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget49.cpp">
+      <Filter>源文件\8.定制new和delete</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h">
@@ -189,6 +198,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Rational46.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Widget49.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
