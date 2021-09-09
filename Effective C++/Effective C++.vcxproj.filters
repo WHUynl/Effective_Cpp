@@ -189,6 +189,15 @@
     <ClCompile Include="Widget49.cpp">
       <Filter>源文件\8.定制new和delete</Filter>
     </ClCompile>
+    <ClCompile Include="47.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="48.cpp">
+      <Filter>源文件\7.模板与泛性编程</Filter>
+    </ClCompile>
+    <ClCompile Include="50.cpp">
+      <Filter>源文件\8.定制new和delete</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="31Person.h">
